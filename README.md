@@ -51,7 +51,7 @@ pip install customtkinter pyperclip
 
 ```bash
 git clone https://github.com/xEL1NAx/Hammingcode/
-cd hamming-gui
+cd Hammingcode
 ```
 
 2. Run the application:
