@@ -31,13 +31,6 @@ It is fully interactive, with a dynamic bit panel and real-time bit toggling.
 
 ---
 
-## Screenshots
-
-![Hamming GUI](screenshot.png)  
-*Example of Hamming(8,4) error correction in action*
-
----
-
 ## Requirements
 
 - Python 3.9+
@@ -57,7 +50,7 @@ pip install customtkinter pyperclip
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/hamming-gui.git
+git clone https://github.com/xEL1NAx/Hammingcode/
 cd hamming-gui
 ```
 
